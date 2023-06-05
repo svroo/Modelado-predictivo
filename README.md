@@ -6,7 +6,7 @@ En "Segundo Parcial" directory i did code in team with :
 <ul>
   <li> <a href= 'https://github.com/DiegoGugo'> Diego Gugo</a> </li>
   <li> <a href = 'https://github.com/Iancaov06'> Ian Carrillo </a> </li>
-  <li> Marco Serrano (I don't know if he have github) </li>
+  <li> Marco Serrano (I don't know if he has github) </li>
  </ul>
  
 
